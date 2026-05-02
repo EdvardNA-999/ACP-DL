@@ -1,6 +1,9 @@
 ## 🔗 Direct Download Links
  Click on any link below to start downloading directly.
 
+### 📅 2026-05-02 21:19 (IR Time)
+- 📥 **[range-scout-v0.1.2-arm64-v8a-release-signed_1066411_261b9b75.apk](https://github.com/EdvardNa-999/ACP-DL/raw/main/dl/range-scout-v0.1.2-arm64-v8a-release-signed_1066411_261b9b75.apk)**
+
 ### 📅 2026-05-02 20:38 (IR Time)
 - 📥 **[openvpn-connect-3.8.0.4528_signed.1_6964e0c1.zip.001](https://github.com/EdvardNa-999/ACP-DL/raw/main/dl/openvpn-connect-3.8.0.4528_signed.1_6964e0c1.zip.001)**
 - 📥 **[openvpn-connect-3.8.0.4528_signed.1_6964e0c1.zip.002](https://github.com/EdvardNa-999/ACP-DL/raw/main/dl/openvpn-connect-3.8.0.4528_signed.1_6964e0c1.zip.002)**
