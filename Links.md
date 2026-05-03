@@ -1,4 +1,9 @@
 ## 🔗 Direct Download Links
+
+### 📅 2026-05-03 05:53 (IR Time)
+- 📥 **[com.chaos.notchtouch_arm64-v8a_30_1077182_429da7ff.apks](https://github.com/EdvardNa-999/ACP-DL/raw/main/dl/com.chaos.notchtouch_arm64-v8a_30_1077182_429da7ff.apks)**
+
+## 🔗 Direct Download Links
  Click on any link below to start downloading directly.
 
 ### 📅 2026-05-02 21:19 (IR Time)
