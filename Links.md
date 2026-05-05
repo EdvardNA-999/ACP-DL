@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-05 07:25 (IR Time)
+- 📥 **[thefeed-android-v0.15.0-rc-arm64-v8a_1120026.apk](https://github.com/EdvardNa-999/ACP-DL/raw/main/dl/thefeed-android-v0.15.0-rc-arm64-v8a_1120026.apk)**
+
 ### 📅 2026-05-03 14:35 (IR Time)
 - 📥 **[WhiteDNS_1082917_ec5a8c71.apk](https://github.com/EdvardNa-999/ACP-DL/raw/main/dl/WhiteDNS_1082917_ec5a8c71.apk)**
 
