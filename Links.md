@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-07 06:49 (IR Time)
+- 📥 **[Telegram.apk](https://github.com/EdvardNa-999/ACP-DL/raw/main/dl/Telegram.apk)**
+
 ### 📅 2026-05-06 09:07 (IR Time)
 - 📥 **[دود اسفند سرطان_زا یا ضدعفونی_کننده_ از کجا بفهمیم آب کافی نوشیده_ایم_.mp4](https://github.com/EdvardNa-999/ACP-DL/raw/main/dl/%D8%AF%D9%88%D8%AF%20%D8%A7%D8%B3%D9%81%D9%86%D8%AF%20%D8%B3%D8%B1%D8%B7%D8%A7%D9%86_%D8%B2%D8%A7%20%DB%8C%D8%A7%20%D8%B6%D8%AF%D8%B9%D9%81%D9%88%D9%86%DB%8C_%DA%A9%D9%86%D9%86%D8%AF%D9%87_%20%D8%A7%D8%B2%20%DA%A9%D8%AC%D8%A7%20%D8%A8%D9%81%D9%87%D9%85%DB%8C%D9%85%20%D8%A2%D8%A8%20%DA%A9%D8%A7%D9%81%DB%8C%20%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%87_%D8%A7%DB%8C%D9%85_.mp4)**
 
